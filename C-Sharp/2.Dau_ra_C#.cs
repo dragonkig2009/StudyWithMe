@@ -1,6 +1,4 @@
-using System;
-Console.WriteLine("hello world");
-Console.WriteLine(6+9);
+Console.WriteLine(5+6);
 
 
 

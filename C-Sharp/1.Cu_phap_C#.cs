@@ -1,15 +1,4 @@
-using System;
-
-namespace HelloWorld
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Hello World!");
-    }
-  }
-}
+Console.WriteLine("helloworld");
 // * using sytem có nghĩa là sử dụng được các lớp từ không gian tên system
 // * namespace đc dùng để sắp xếp các mã của bạn và là nơi chứa các class và không gian tên
 // * {} dùng để đựng 1 khối mã
