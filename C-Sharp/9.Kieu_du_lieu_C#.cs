@@ -17,8 +17,9 @@
 // Console.WriteLine(myNum_3);
 //! Kiểu dữ liệu "float" nên kết thúc bằng "F" còn kiểu dữ liệu "double" nên kết thúc bằng "D"
 //! Sự dụng "e" sau 1 số, kể từ sau "e" đó là số 0, chỉ áp dụng cho số thực
-float myNum_4 = 4e5F;
-Console.WriteLine(myNum_4);
+
+// float myNum_4 = 4e5F;
+// Console.WriteLine(myNum_4);
 
 
 
