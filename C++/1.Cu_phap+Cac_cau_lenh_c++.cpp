@@ -8,4 +8,6 @@
 using namespace std;
 int main(){
   cout<<"helloworld"<<endl;
+  return 0;
+  cout<<"xinchaovim"<<endl;
 }
