@@ -4,6 +4,4 @@ I. Boolean Value
 2. khi return giá trị được trả về sẽ là true = 1 - false = 0
 II. Boolean Experesion
 1. sự dụng các operato <,>,==,... trong cout
-
-
 */
