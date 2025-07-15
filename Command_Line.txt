@@ -1,0 +1,13 @@
+Hôm nay Tôi sẽ học CommandLine và Neovim-LazyVim:
+I. Các Lệnh Command Line:
+- Lệnh pwd: Được dùng để kiểm tra xem mình đang ở thư mục nào.
+- Lệnh ls: Để xem thư mục đó có những file nào - thư mục gì.
+- Lệnh cd: Di chuyển qua lại giữa các thư mục | Lệnh cd..: dùng để quay lại thư mục cũ.
+- Lệnh ls -la: Hiện thị thông tin file. | Lệnh ls -lah: Để dễ nhìn hơn.
+- Lệnh mkdir: Tạo thư mục.
+- Lệnh touch: tạo file
+- Lệnh nano: Xem file.
+- Lệnh rm: Xóa file
+- Lệnh clear: để xóa những lệnh trước 
+- Lệnh find . -name "...": Để tìm file.
+- Lệnh man: Bảng hướng dẫn
